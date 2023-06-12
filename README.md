@@ -62,32 +62,59 @@ a male voice with a neutral emotional state.
 
 **caption**
 
+
 https://github.com/hojinYang/whispertalk/assets/31153283/735642e3-07f1-496c-a4c7-88059ffbc75c
+
+
 the sound in the audio is reminiscent of grunge rock music.
 
+
 https://github.com/hojinYang/whispertalk/assets/31153283/9cdeb1cb-3cb7-45e8-8f9c-dc62b7e254a7
+
+
 the audio contains a mix of speech and music.
 
+
 https://github.com/hojinYang/whispertalk/assets/31153283/90c9293e-d6fe-4d83-bfb6-cfb159205b59
+
+
 the sound of clapping is audible.
 
+
 https://github.com/hojinYang/whispertalk/assets/31153283/2723ca5f-0b98-4130-9bbf-d0ce660b4138
+
+
 the sound of an electric toothbrush buzzing can be heard.
 
+
 https://github.com/hojinYang/whispertalk/assets/31153283/91a2ca1b-2dc5-4c22-9a25-d419f6f66483
+
+
 the sound of boiling water can be heard.
 
+
 https://github.com/hojinYang/whispertalk/assets/31153283/4d4ec77e-7f36-44ce-8c10-ca85bf3d24f2
+
+
 a vehicle starts and revs up, then stops.
 
 **next token prediction**
 
+
 https://github.com/hojinYang/whispertalk/assets/31153283/7fa353cd-e459-455a-8b64-c6c6adfccd1c
+
+
 (turn) i was. i was a breakfast club fan.
 
+
 https://github.com/hojinYang/whispertalk/assets/31153283/6765905b-4c75-45da-8430-84b460c369a0
+
+
 real business. and that's what we're doing. we're bringing a real business to the table.
 
+
 https://github.com/hojinYang/whispertalk/assets/31153283/a2f3e85c-b94b-45d7-9b65-82d4649c2476
+
+
 (turn)i'm sorry, but i don't have any information on how to make a hamburger. can you provide more context or details?
 

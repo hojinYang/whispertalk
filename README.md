@@ -19,3 +19,10 @@ To address this challenge, our project proposes a novel approach to incorporatin
 The potential impact of this project extends beyond enhancing user experiences. Similar to text-based LMs that have tackled various text-related tasks, such as improving writing and summarization, integrating voice input opens avenues for addressing numerous challenges specific to vocal communication.
 
 By leveraging the WhisperTalk model, we aim to improve the way voice input is incorporated into language models, enabling richer and more immersive interactions while preserving the unique characteristics of human speech.
+
+
+**Examples**
+| Audio | Continuation |
+|-------|-------------|
+| <audio controls><source src="src/audio5.wav" type="audio/wav"></audio> | Introduction to the topic |
+| <audio controls><source src="src/audio5.wav" type="audio/wav"></audio> | Introduction to the topic |

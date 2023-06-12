@@ -24,5 +24,5 @@ By leveraging the WhisperTalk model, we aim to improve the way voice input is in
 **Examples**
 | Audio | Continuation |
 |-------|-------------|
-| <audio controls><source src="src/audio5.wav" type="audio/wav"></audio> | Introduction to the topic |
+| https://github.com/hojinYang/whispertalk/assets/31153283/e0934c68-ba2a-40e1-a3d7-3d6148dcd59d | Introduction to the topic |
 | <audio controls><source src="src/audio5.wav" type="audio/wav"></audio> | Introduction to the topic |

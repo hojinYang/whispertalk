@@ -21,6 +21,10 @@ The potential impact of this project extends beyond enhancing user experiences. 
 By leveraging the WhisperTalk model, we aim to improve the way voice input is incorporated into language models, enabling richer and more immersive interactions while preserving the unique characteristics of human speech.
 
 
+https://github.com/hojinYang/whispertalk/assets/31153283/2389c5ae-2b18-4602-ab93-3d2c4dded480
+
+
+
 **Examples**
 | Audio | Continuation |
 |-------|-------------|

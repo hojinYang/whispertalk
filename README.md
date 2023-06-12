@@ -2,7 +2,9 @@
 
 **Demo video**
 
-https://github.com/hojinYang/whispertalk/assets/31153283/152b8c03-a120-4e0e-bf38-c6a423b98a9c
+
+https://github.com/hojinYang/whispertalk/assets/31153283/e8377ffc-e90e-49d2-9d8b-005003540162
+
 
 
 We will be releasing the weights and inference script for WhisperTalk, along with additional use cases, in the near future. Stay tuned for updates! 🚀

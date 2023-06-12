@@ -1,8 +1,10 @@
-**WhisperTalk**
+**WhisperTalk🔊**
+
+**Demo Video**
 
 **Project Description:**
 
-🔊 WhisperTalk is an audio-to-text model based on the transformer architecture. It is designed to take audio input optionally along with preceding conversations or prompts and generate predictions for the next utterance. This model offers several notable features:
+WhisperTalk is an audio-to-text model based on the transformer architecture. It is designed to take audio input optionally along with preceding conversations or prompts and generate predictions for the next utterance. This model offers several notable features:
 
 1️⃣ **Comprehensive Understanding**: WhisperTalk understands the content conveyed in audio and generates appropriate responses accordingly.
 
@@ -21,16 +23,4 @@ The potential impact of this project extends beyond enhancing user experiences. 
 By leveraging the WhisperTalk model, we aim to improve the way voice input is incorporated into language models, enabling richer and more immersive interactions while preserving the unique characteristics of human speech.
 
 
-https://github.com/hojinYang/whispertalk/assets/31153283/2389c5ae-2b18-4602-ab93-3d2c4dded480
-
-
-
-https://github.com/hojinYang/whispertalk/assets/31153283/feea4067-19bc-4477-a4a3-d33728720a2b
-
-
-
 **Examples**
-| Audio | Continuation |
-|-------|-------------|
-| https://github.com/hojinYang/whispertalk/assets/31153283/e0934c68-ba2a-40e1-a3d7-3d6148dcd59d | Introduction to the topic |
-| <audio controls><source src="src/audio5.wav" type="audio/wav"></audio> | Introduction to the topic |

@@ -22,4 +22,38 @@ To address this challenge, our project proposes a novel approach to incorporatin
 
 The potential impact of this project extends beyond enhancing user experiences. Similar to text-based LMs that have tackled various text-related tasks, such as improving writing and summarization, integrating voice input opens avenues for addressing numerous challenges specific to vocal communication.
 
-**Examples**
+### Examples
+
+**vocal characteristics**
+
+a woman is expressing her happiness through laughter.
+
+the sound is that of a man who is furious.
+
+a sad cry is coming from the baby.
+
+a male laughing with joy.
+
+a male voice with a neutral emotional state.
+
+**caption**
+
+the sound in the audio is reminiscent of grunge rock music.
+
+the audio contains a mix of speech and music.
+
+the sound of clapping is audible.
+
+the sound of an electric toothbrush buzzing can be heard.
+
+the sound of boiling water can be heard.
+
+a vehicle starts and revs up, then stops.
+
+**next token prediction**
+(turn) i was. i was a breakfast club fan.
+
+real business. and that's what we're doing. we're bringing a real business to the table.
+
+(turn)i'm sorry, but i don't have any information on how to make a hamburger. can you provide more context or details?
+

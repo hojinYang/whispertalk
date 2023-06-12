@@ -2,6 +2,7 @@
 
 **Demo video**
 
+https://github.com/hojinYang/whispertalk/assets/31153283/152b8c03-a120-4e0e-bf38-c6a423b98a9c
 
 **Project Description:**
 
@@ -20,7 +21,5 @@ In recent years, language models (LMs) have achieved significant advancements, l
 To address this challenge, our project proposes a novel approach to incorporating voice input into LMs. Our proposed model takes both voice and text-based prompts as input, leveraging them to predict the next sequence of words. By integrating voice input, LM-based services can better grasp the nuances of user communication, including emotions, speech termination, and other vocal intricacies. This, in turn, enables more natural and seamless interactions between humans and LMs.
 
 The potential impact of this project extends beyond enhancing user experiences. Similar to text-based LMs that have tackled various text-related tasks, such as improving writing and summarization, integrating voice input opens avenues for addressing numerous challenges specific to vocal communication.
-
-By leveraging the WhisperTalk model, we aim to improve the way voice input is incorporated into language models, enabling richer and more immersive interactions while preserving the unique characteristics of human speech.
 
 **Examples**

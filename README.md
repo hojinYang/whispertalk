@@ -1,4 +1,4 @@
-# WhisperTalk🔊
+# WhisperTalk
 
 **Demo video**
 

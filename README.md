@@ -14,7 +14,7 @@ https://github.com/hojinYang/whispertalk/assets/31153283/e8377ffc-e90e-49d2-9d8b
 
 
 
-We have uploaded the small version to [HuggingFace model hub](https://huggingface.co/hojin/whispertalk), so please check it out. We are currently training a larger and more sophisticated model. If you have any questions or would like early access, please contact us at [hojin.yang7@gmail.com](mailto:hojin.yang7@gmail.com).
+We have uploaded the small version to [HuggingFace model hub](https://huggingface.co/hojin/whispertalk) under afl-3.0 LICENSE, so please check it out. We are currently training a larger and more sophisticated model. If you have any questions or would like early access, please contact us at [hojin.yang7@gmail.com](mailto:hojin.yang7@gmail.com).
 
 **Project Description:**
 

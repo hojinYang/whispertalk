@@ -1,5 +1,12 @@
 # WhisperTalk
 
+<div style='display:flex; gap: 0.25rem; '>
+<a href='https://huggingface.co/hojin/whispertalk'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a>
+<a href='https://colab.research.google.com/drive/12F8EVlMZldaaEdubbKCPcxd12ORnpDOe?usp=sharing'><img src='https://colab.research.google.com/assets/colab-badge.svg'></a>  
+<a href='https://hojinyang.github.io/papers/whispertalk.pdf'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
+</div>
+
+
 **Demo video**
 
 
@@ -7,9 +14,11 @@ https://github.com/hojinYang/whispertalk/assets/31153283/e8377ffc-e90e-49d2-9d8b
 
 
 
-We will be releasing the weights and inference script for WhisperTalk, along with additional use cases, in the near future. Stay tuned for updates! 🚀
+We have uploaded the small version to [HuggingFace model hub](https://huggingface.co/hojin/whispertalk), so please check it out. We are currently training a larger and more sophisticated model. If you have any questions or would like early access, please contact us at [hojin.yang7@gmail.com](mailto:hojin.yang7@gmail.com).
 
 **Project Description:**
+
+![model](assets/whsipertalk.png)
 
 WhisperTalk is an audio-to-text model based on the transformer architecture. It is designed to take audio input optionally along with preceding conversations or prompts and generate predictions for the next utterance. This model offers several notable features:
 
@@ -122,4 +131,6 @@ https://github.com/hojinYang/whispertalk/assets/31153283/057df693-806e-44e9-917d
 
 
 (turn)i'm sorry, but i don't have any information on how to make a hamburger. can you provide more context or details?
+
+More examples: click [here](https://hojinyang.notion.site/WhisperTalk-Examples-5f63c1c68a964c29b21d6e5089f4bfd6?pvs=4)
 
